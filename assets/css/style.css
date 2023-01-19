@@ -25,6 +25,7 @@ header ul{
 header ul li{
     list-style: none;
     font-size: 2.1rem;
+    cursor: pointer;
 }
 #content{
     display: grid;
@@ -33,7 +34,7 @@ header ul li{
     margin: auto;
     width: 70%;
     background-color: white;
-    height: 49.2rem;
+    height: 59.2rem;
 }
 #content div{
     font-size: 5.2rem;
